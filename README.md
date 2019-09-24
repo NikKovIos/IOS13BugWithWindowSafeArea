@@ -8,3 +8,5 @@ To reproduce:
 4) Minimize app and expand it back. OR drag the bottom black line that the app would ready to minimize, but dragged back to the normal state.
 5) Press "Back to Portrait"
 6) Bug occure: Safe area stay from landscape.
+
+Check the video example of the bug in repository. File "Example.mp4"
